@@ -1,0 +1,6 @@
+.ds_store
+.env
+.git
+lib2/
+node_modules
+package-lock.json

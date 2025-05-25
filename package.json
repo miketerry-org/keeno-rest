@@ -1,0 +1,25 @@
+{
+  "name": "keeno-rest",
+  "version": "0.0.1",
+  "description": "Multitenant Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketerry-org/keeno-rest.git"
+  },
+  "keywords": [
+    "keeno",
+    "rest",
+    "api",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketerry-org/keeno-rest/issues"
+  },
+  "homepage": "https://github.com/miketerry-org/keeno-rest#readme"
+}
