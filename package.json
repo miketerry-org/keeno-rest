@@ -1,6 +1,6 @@
 {
   "name": "keeno-rest",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Multitenant Rest API",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "express-rate-limit": "^7.5.0",
     "helmet": "^8.1.0",
     "hpp": "^0.2.3",
-    "keeno-env": "^0.2.0",
+    "keeno-env": "^0.2.1",
     "keeno-schema": "^0.4.0",
     "morgan": "^1.10.0"
   }
