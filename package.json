@@ -1,7 +1,7 @@
 {
   "name": "keeno-rest",
-  "version": "0.0.4",
-  "description": "Multitenant Rest API",
+  "version": "0.0.5",
+  "description": "initializes express Rest API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
